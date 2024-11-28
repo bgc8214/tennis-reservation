@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/tennis-reservation/static/css/main.b435c912.css",
-    "main.js": "/tennis-reservation/static/js/main.8150e387.js",
+    "main.js": "/tennis-reservation/static/js/main.0e3d74f8.js",
     "index.html": "/tennis-reservation/index.html",
     "main.b435c912.css.map": "/tennis-reservation/static/css/main.b435c912.css.map",
-    "main.8150e387.js.map": "/tennis-reservation/static/js/main.8150e387.js.map"
+    "main.0e3d74f8.js.map": "/tennis-reservation/static/js/main.0e3d74f8.js.map"
   },
   "entrypoints": [
     "static/css/main.b435c912.css",
-    "static/js/main.8150e387.js"
+    "static/js/main.0e3d74f8.js"
   ]
 }
